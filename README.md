@@ -2,6 +2,13 @@
 
 A flake composition project!
 
+## Usage
+
+```bash
+nix develop -c $SHELL
+hello
+```
+
 ## Reference
 
 - https://discourse.nixos.org/t/flakes-buildinputs-and-devshell/16208
